@@ -1,0 +1,4 @@
+repository "Gyro@uuus2333@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
